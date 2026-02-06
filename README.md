@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Muscab Ahmed</h1>
-<h3 align="center">Full-Stack Engineer | React.js • Node.js • PostgreSQL • Docker | Building Scalable AI Products
+<h3 align="center">Backend Engineer | Node.js • PostgreSQL • Docker • AWS | Building Scalable Systems
 
 </h3>
 
@@ -13,20 +13,15 @@
 
 ### About Me 
 
-I'm a passionate **Full-Stack Developer** with expertise in building **scalable, data-intensive web applications** powered by AI and modern cloud technologies. I thrive on architecting solutions that bridge intelligent systems with seamless user experiences.
+I'm a passionate **Backend Software Engineer** with expertise in building scalable, backend systems and robust APIs powered by modern cloud technologies. I specialize in architecting and implementing server-side solutions that handle complex business logic, ensure system reliability, and drive seamless user experiences through powerful, efficient backends.
 
-- 🌱 **Currently learning:** `Next.js` • `Material-UI` • `Django` • `AWS (EC2, S3, Lambda)`
-- 💬 **Ask me about:** React.js • Node.js • PostgreSQL • Docker
-- 📚 **Tech Blog:** I regularly write about development insights on [Medium](https://medium.com/muscab.ahmed.dev) and [LinkedIn](https://linkedin.com/in/muscababdisamed/)
+- 🌱 **Currently learning:** System Design • Microservices • Advanced PostgreSQL • AWS (S3, Lambda, ECS, RDS)
+- 💬 **Ask me about:** API architecture • Database performance tuning • System scalability • Docker deployment • AWS infrastructure
+- 📚 **Tech Blog:** I write technical articles on Medium about backend development and system design on [Medium](https://medium.com/muscab.ahmed.dev) and [LinkedIn](https://linkedin.com/in/muscababdisamed/)
 
 ---
 
 ### Tech Stack 
-
-#### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
